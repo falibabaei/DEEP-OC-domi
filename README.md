@@ -3,7 +3,7 @@
 </div>
 
 # DEEP-OC-domi
-[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/UC-falibabaei-DEEP-OC-domi/master)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/UC-falibabaei-DEEP-OC-domi/job/master)
+[![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/UC-falibabaei-DEEP-OC-domi/test)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/UC-falibabaei-DEEP-OC-domi/job/test)
 
 This is a container that will run the [domi](https://github.com/falibabaei/domi) application leveraging the DEEP as a Service API component ([DEEPaaS API V2](https://github.com/indigo-dc/DEEPaaS)).
 
